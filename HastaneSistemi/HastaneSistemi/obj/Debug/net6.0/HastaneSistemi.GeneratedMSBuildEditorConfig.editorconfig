@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gokce\OneDrive\Masaüstü\HastaneRandevu\HastaneSistemi\HastaneSistemi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Doktor/DoktorBilgi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3RvckJpbGdpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
