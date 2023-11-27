@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gokce\OneDrive\Masaüstü\HastaneRandevu\HastaneSistemi\HastaneSistemi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Departman/DepartmanBilgi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWFuXERlcGFydG1hbkJpbGdpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Doktor/DoktorBilgi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3RvckJpbGdpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Iletisim/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1cSWxldGlzaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/Views/Kullanıcı/Login.cshtml]
