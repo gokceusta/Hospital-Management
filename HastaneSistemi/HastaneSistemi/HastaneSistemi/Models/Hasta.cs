@@ -1,10 +1,14 @@
-﻿namespace HastaneSistemi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HastaneSistemi.Models
 {
     public class Hasta
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public int Phone { get; set; }
+        [Key]
+        public int HastaID { get; set; }
+        public string? HastAd { get; set; }
+        public string? HastaSoyad { get; set; }
+        public IList<Randevu> Randevus { get; set; }
     }
 }
+ 

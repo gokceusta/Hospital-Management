@@ -1,11 +1,15 @@
-﻿namespace HastaneSistemi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace HastaneSistemi.Models
 {
     public class Doktor
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public int Phone { get; set; }
-
+        [Key]
+        public int DoktorID { get; set; }
+        public string? DoktorAd { get; set; }
+        public string? DoktorSoyad { get; set; }
+        public int PoliklinikID { get; set; }
+        public Poliklinik Poliklinik { get; set; }
+        public IList<Randevu> Randevus { get; set; }
     }
 }

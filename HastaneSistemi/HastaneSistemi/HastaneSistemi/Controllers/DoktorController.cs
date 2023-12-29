@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HastaneSistemi.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HastaneSistemi.Controllers
 {
     public class DoktorController : Controller
     {
-        public IActionResult DoktorBilgi()
+        Context c = new Context();
+        public IActionResult Index()
         {
-            return View();
+            var degerler = c.Doktors.ToList();
+            return View(degerler);
         }
     }
 }
