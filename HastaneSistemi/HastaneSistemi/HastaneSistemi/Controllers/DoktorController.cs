@@ -1,5 +1,6 @@
 ﻿using HastaneSistemi.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace HastaneSistemi.Controllers
 {
@@ -8,7 +9,7 @@ namespace HastaneSistemi.Controllers
         Context c = new Context();
         public IActionResult Index()
         {
-            var degerler = c.Doktors.ToList();
+            var degerler = c.Doktors.Include(x=>x.Poliklinik).ToList();
             return View(degerler);
         }
     }
