@@ -1,5 +1,6 @@
 ﻿using HastaneSistemi.Controllers;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel;
 
 namespace HastaneSistemi.Models
 {
@@ -19,6 +20,8 @@ namespace HastaneSistemi.Models
         public DbSet<Hesap> Hesaps { get; set; }
 
         public DbSet<Kayit>Kayits { get; set; }
+
+       public DbSet<Admin> Admins { get; set; }
 
     }
 }
