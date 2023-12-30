@@ -22,12 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Hesap/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVzYXBcR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Kayit/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcS2F5aXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Poliklinik/BirimIncele.cshtml]

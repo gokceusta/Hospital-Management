@@ -64,6 +64,50 @@ namespace HastaneSistemi.Migrations
                     b.ToTable("Hastas");
                 });
 
+            modelBuilder.Entity("HastaneSistemi.Models.Hesap", b =>
+                {
+                    b.Property<int>("HesapID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HesapID"), 1L, 1);
+
+                    b.Property<string>("HesapMail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HesapSifre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("HesapID");
+
+                    b.ToTable("Hesaps");
+                });
+
+            modelBuilder.Entity("HastaneSistemi.Models.Kayit", b =>
+                {
+                    b.Property<int>("HesapID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HesapID"), 1L, 1);
+
+                    b.Property<string>("HesapAd")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HesapMail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HesapSifre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HesapSoyad")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("HesapID");
+
+                    b.ToTable("Kayits");
+                });
+
             modelBuilder.Entity("HastaneSistemi.Models.Poliklinik", b =>
                 {
                     b.Property<int>("PoliklinikID")
