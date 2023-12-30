@@ -1,0 +1,21 @@
+﻿@using HastaneSistemi.Models
+@model List<Doktor>
+
+
+<br />
+<table class="table">
+    <tr>
+        <th>Departmanı</th>
+        <th>Kadrodaki Doktorlarımız</th>
+        <th></th>
+    </tr>
+
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Poliklinik.PoliklinikAd</td>
+            <td>@x.DoktorAd @x.DoktorSoyad</td>
+            <td></td>
+        </tr>
+    }
+</table>
