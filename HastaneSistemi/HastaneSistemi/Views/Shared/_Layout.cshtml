@@ -19,20 +19,18 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1"> <li class="nav-item ms-auto">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item ms-auto">
                             <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a>
                         </li>
                         <li class="nav-item ms-auto">
-                            <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Doktor" asp-action="Index">Doktorlarımız</a>
+                            <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Doktor" asp-action="Doktor">Doktorlarımız</a>
                         </li>
                         <li class="nav-item ms-auto">
                             <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Poliklinik" asp-action="Index">Departmanlarımız</a>
                         </li>
                         <li class="nav-item ms-auto">
-                            <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Hesap" asp-action="Giris">Randevu Giriş</a>
-                        </li>
-                        <li class="nav-item ms-auto">
-                            <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Kayit" asp-action="Kayit">Kayit Olun</a>
+                            <a style="font-size:15px" class="nav-link text-white-50" asp-area="" asp-controller="Randevu" asp-action="Index">Randevu Al</a>
                         </li>
                     </ul>
                 </div>
@@ -44,9 +42,10 @@
             @RenderBody()
         </main>
     </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - HastaneSistemi - GÖKÇE USTA</a>
+            &copy; 2023 - HastaneSistemi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
@@ -55,6 +54,3 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
-
-
-

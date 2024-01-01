@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sp//nDjCST3sAnDTvWL1vyUXqDoYw3RBzZJeXFCLuZM38+djOucjTLnBIIduv3m5YzQtxgVqdjKSMxmcd7n7Dw==",
+  "dgSpecHash": "M5xHtA5/FmROF8TARzYL8NACm/mQTrkcZue7y8Dr0A5Ae2NFRjE0e1G4WxZMJGHqc0gOoM/uOKkXktmWzYpoTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
+  "projectFilePath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gokce\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

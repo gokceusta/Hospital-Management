@@ -9,17 +9,17 @@
             <br />
             <input type="text" placeholder="İsim Giriniz" name="email" required>
             <br />
-            <label for="surname"><b>Soyad</b></label>   
+            <label for="surname"><b>Soyad</b></label>
             <br />
             <input type="text" placeholder="Soyisim Giriniz" name="email" required>
             <br />
-            <label for="email"><b>Email</b></label>            
+            <label for="email"><b>Email</b></label>
             <br />
             <input type="text" placeholder="E-Mail Giriniz" name="email" required>
 
             <br />
             <br />
-            <label for="psw"><b>Şifre Belirleyiniz</b></label>            
+            <label for="psw"><b>Şifre Belirleyiniz</b></label>
             <br />
             <input type="password" placeholder="Şifre Giriniz" name="psw" required>
             <br />
@@ -28,9 +28,11 @@
             <input type="password" placeholder="Şifre Tekrarı" name="psw-repeat" required>
             <br />
             <br />
-           
-            <button style="background-color:brown" type="submit" class="signupbtn">Hesabım Var</button>
-            <button style="background-color:brown" type="submit" class="signupbtn">Kayıt Ol</button>
+            <button style="background-color:brown" type="submit" class="nav-link text-white-50">Kayıt Ol</button>
+            <br />
+            <h5>Zaten hesabın var mı?</h5>
+            <a type="submit" style="color:blue" asp-area="" asp-controller="Hesap" asp-action="Giris">Giriş Yap</a>
+
         </div>
 
     </form>

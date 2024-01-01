@@ -1,6 +1,4 @@
-﻿using HastaneSistemi.Controllers;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace HastaneSistemi.Models
 {
@@ -12,16 +10,8 @@ namespace HastaneSistemi.Models
         }
         public DbSet<Doktor> Doktors { get; set; }
         public DbSet<Hasta> Hastas { get; set; }
-
         public DbSet<Poliklinik> Polikliniks { get; set; }
-
         public DbSet<Randevu> Randevus { get; set; }
-
-        public DbSet<Hesap> Hesaps { get; set; }
-
-        public DbSet<Kayit>Kayits { get; set; }
-
-       public DbSet<Admin> Admins { get; set; }
-
+        public DbSet<Admin> Admins { get; set; }
     }
 }

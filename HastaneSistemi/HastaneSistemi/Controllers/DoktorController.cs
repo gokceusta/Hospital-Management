@@ -7,9 +7,9 @@ namespace HastaneSistemi.Controllers
     public class DoktorController : Controller
     {
         Context c = new Context();
-        public IActionResult Index()
+        public IActionResult Doktor()
         {
-            var degerler = c.Doktors.Include(x=>x.Poliklinik).ToList();
+            var degerler = c.Doktors.Include(x => x.Poliklinik).ToList();
             return View(degerler);
         }
     }

@@ -1,25 +1,25 @@
 ﻿<html>
 <body>
 
-    <form action="/action_page.php" style="border:1px solid #ccc">
+    <form style="border:1px solid #ccc">
         <div class="container">
-            <h1>Randevu Girişi</h1>
+            <h1>Giriş Alanı</h1>
             <hr>
 
             <label for="email"><b>Email</b></label>
             <br />
-            <input type="text" placeholder="E-Mail Giriniz" name="email" required>
+            <input class="nav-link text-black" type="text" placeholder="E-Mail Giriniz" name="email" required>
             <br />
             <label for="psw"><b>Şifre</b></label>
             <br />
-            <input type="password" placeholder="Şifre Giriniz" name="psw" required>
+            <input class="nav-link text-black" type="password" placeholder="Şifre Giriniz" name="psw" required>
             <br />
+            <button style="background-color:brown" type="submit" class="nav-link text-white-50">Giriş Yap</button>
             <br />
-            <button style="background-color:brown" type="submit" class="signupbtn">Giriş Yap</button>
+            <h5>Hesabın yok mu?</h5>
+            <a type="submit" style="color:blue" asp-area="" asp-controller="Kayit" asp-action="Kayit">Kayıt Ol</a>
          
-            <button style="background-color:brown" type="submit" class="signupbtn">Kayıt Ol</button>
         </div>
-
     </form>
 
 </body>

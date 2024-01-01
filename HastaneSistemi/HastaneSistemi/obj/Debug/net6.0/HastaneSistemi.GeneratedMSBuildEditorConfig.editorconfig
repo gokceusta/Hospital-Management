@@ -9,59 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HastaneSistemi
 build_property.RootNamespace = HastaneSistemi
-build_property.ProjectDir = C:\Users\gokce\OneDrive\Masaüstü\HastaneRandevu\HastaneSistemi\HastaneSistemi\HastaneSistemi\
+build_property.ProjectDir = C:\Users\gokce\OneDrive\Masaüstü\hastanesistemi_güncel\HastaneSistemi\HastaneSistemi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gokce\OneDrive\Masaüstü\HastaneRandevu\HastaneSistemi\HastaneSistemi\HastaneSistemi
+build_property.MSBuildProjectDirectory = C:\Users\gokce\OneDrive\Masaüstü\hastanesistemi_güncel\HastaneSistemi\HastaneSistemi
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Doktor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXEluZGV4LmNzaHRtbA==
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Doktor/Doktor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3Rvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Hesap/Giris.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Hesap/Giris.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVzYXBcR2lyaXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Home/Index.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Home/Privacy.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Kayit/Kayit.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Kayit/Kayit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcS2F5aXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Poliklinik/BirimIncele.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Poliklinik/BirimIncele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWtsaW5pa1xCaXJpbUluY2VsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Poliklinik/Index.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Poliklinik/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9saWtsaW5pa1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Shared/Error.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Randevu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/_ViewImports.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/_ViewStart.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokce/OneDrive/Masaüstü/HastaneRandevu/HastaneSistemi/HastaneSistemi/HastaneSistemi/Views/Shared/_Layout.cshtml]
+[C:/Users/gokce/OneDrive/Masaüstü/hastanesistemi_güncel/HastaneSistemi/HastaneSistemi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w1lm9zq8np

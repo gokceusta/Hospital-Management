@@ -8,7 +8,8 @@ namespace HastaneSistemi.Models
         public int HastaID { get; set; }
         public string? HastAd { get; set; }
         public string? HastaSoyad { get; set; }
+        public string? HesapMail { get; set; }
+        public string? HesapSifre { get; set; }
         public IList<Randevu> Randevus { get; set; }
     }
 }
- 

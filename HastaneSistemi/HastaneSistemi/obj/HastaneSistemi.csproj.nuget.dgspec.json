@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj": {}
+    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj": {
+    "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
         "projectName": "HastaneSistemi",
-        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
+        "projectPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi.csproj",
         "packagesPath": "C:\\Users\\gokce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\HastaneRandevu\\HastaneSistemi\\HastaneSistemi\\HastaneSistemi\\obj\\",
+        "outputPath": "C:\\Users\\gokce\\OneDrive\\Masaüstü\\hastanesistemi_güncel\\HastaneSistemi\\HastaneSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokce\\AppData\\Roaming\\NuGet\\NuGet.Config",
